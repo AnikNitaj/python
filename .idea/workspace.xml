@@ -5,19 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="87066d42-0b1e-4fa0-98d3-3f3437a037bf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/MY_PACKAGE/MODULI 1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MY_PACKAGE/MODULI 2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MY_PACKAGE/MODULI 3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MY_PACKAGE/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MY_PACKAGE/minus.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MY_PACKAGE/plus.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mod6]/moduli 6/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mod6]/moduli 6/main4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mod6]/moduli 6/main_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mod6]/moduli 6/main_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mod6]/moduli 6/using_pip.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
