@@ -1,65 +1,64 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="398402a9-1db8-4581-a3a7-4014016cd519" name="Changes" comment="" />
+    <list default="true" id="304d4814-408b-4a03-96bf-b6de6f7e629c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/moduli 11/dateClass.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/moduli 11/example.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/moduli 11/example2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/moduli 11/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/moduli 11/main2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/moduli 11/main3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/moduli 11/main4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/moduli 11/main5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/moduli 11/time.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/python.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5,
-  "fromUser": false
+  "associatedIndex": 4
 }]]></component>
-  <component name="ProjectId" id="3EdM2fw6JxHLWOp7gmg51MAT6Or" />
+  <component name="ProjectId" id="3ErTA2WQ6uE1Boviva5yh7vFjs4" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "git-widget-placeholder": "main",
-    "vue.rearranger.settings.migration": "true"
+    "git-widget-placeholder": "main"
   }
 }]]></component>
-  <component name="SharedIndexes">
-    <attachedChunks>
-      <set>
-        <option value="bundled-python-sdk-c59985aa861c-c2ffad84badb-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-261.24374.152" />
-      </set>
-    </attachedChunks>
-  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="398402a9-1db8-4581-a3a7-4014016cd519" name="Changes" comment="" />
-      <created>1780503787979</created>
+      <changelist id="304d4814-408b-4a03-96bf-b6de6f7e629c" name="Changes" comment="" />
+      <created>1780935542269</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1780503787979</updated>
-      <workItem from="1780503789073" duration="34000" />
+      <updated>1780935542269</updated>
     </task>
     <servers />
-  </component>
-  <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="3" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/main.py</url>
-          <line>8</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
