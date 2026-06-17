@@ -5,13 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="304d4814-408b-4a03-96bf-b6de6f7e629c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/moduli 13/data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/moduli 13/date_cv.csv.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/moduli 13/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/moduli 13/main2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/moduli 13/main3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/moduli 13/perseritje.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/copilot.data.migration.agent.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/csv-editor.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/moduli 14/heatmap.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/moduli 14/lesson14.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/moduli 14/linePlot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/moduli 14/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/moduli 14/main2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/moduli 14/pie_chart.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/moduli 14/scatter_plot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/moduli 14/seaborn_libb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/moduli 14/seaborn_libb.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/python.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kerri.py" beforeDir="false" afterPath="$PROJECT_DIR$/moduli 9/kerri.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/moduli 9/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/moduli 9/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,14 +46,32 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/admin1/Desktop/python&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.linePlot.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.pie_chart.executor": "Run",
+    "Python.scatter_plot.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/Student/Desktop/python"
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Student\Desktop\python\moduli 9" />
+      <recent name="C:\Users\Student\Desktop\python\moduli 14" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-98f27166c754-ba05f1cad1b1-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.21829.153" />
+      </set>
+    </attachedChunks>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -54,5 +82,13 @@
       <updated>1780935542269</updated>
     </task>
     <servers />
+  </component>
+  <component name="github-copilot-workspace">
+    <instructionFileLocations>
+      <option value=".github/instructions" />
+    </instructionFileLocations>
+    <promptFileLocations>
+      <option value=".github/prompts" />
+    </promptFileLocations>
   </component>
 </project>
