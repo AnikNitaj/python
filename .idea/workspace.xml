@@ -5,23 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="304d4814-408b-4a03-96bf-b6de6f7e629c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/copilot.data.migration.agent.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/csv-editor.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/moduli 14/heatmap.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/moduli 14/lesson14.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/moduli 14/linePlot.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/moduli 14/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/moduli 14/main2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/moduli 14/pie_chart.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/moduli 14/scatter_plot.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/moduli 14/seaborn_libb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/moduli 14/seaborn_libb.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weather/high low.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weather/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weather/weather.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/python.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kerri.py" beforeDir="false" afterPath="$PROJECT_DIR$/moduli 9/kerri.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/moduli 9/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/moduli 9/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +36,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.high low.executor": "Run",
     "Python.linePlot.executor": "Run",
     "Python.main.executor": "Run",
     "Python.pie_chart.executor": "Run",
